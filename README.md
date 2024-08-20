@@ -6,24 +6,24 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-Software engineering is a branch of computer science that deals with design, development, testing and maintenance od software applications.
-Software engineering provides a way to manage the resource, schedule and budget of the project, and ensure the team is working correctly and on course.
+1)Software engineering is a branch of computer science that deals with design, development, testing and maintenance od software applications.
+2)Software engineering provides a way to manage the resource, schedule and budget of the project, and ensure the team is working correctly and on course.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-Process of developing software- comming up with the idea and finaly making it a product.
-process of maintaining software - this is kepping up with the emerging technology and be able to keep the product running
-process of updating software - always improving the product to meet the markets needs
+1)Process of developing software- comming up with the idea and finaly making it a product.
+2)process of maintaining software - this is kepping up with the emerging technology and be able to keep the product running
+3)process of updating software - always improving the product to meet the markets needs
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
-Planning - Organizing and comming up with the team and processes of how to handle the project.
-Requirement analysis - Collecting users needs and defining the how 
-Design- comming up with the prototype and the flows of the product.
-Coding - Writting down the actual code for the product
-Testing - checking if the product meets users requests. 
-Deploying - Giving the product access to the owner
-Maintainance - Following up on the product and making sure it runs at its best.
+1)Planning - Organizing and comming up with the team and processes of how to handle the project.
+2)Requirement analysis - Collecting users needs and defining the how 
+3)Design- comming up with the prototype and the flows of the product.
+4)Coding - Writting down the actual code for the product
+5)Testing - checking if the product meets users requests. 
+6)Deploying - Giving the product access to the owner
+7)Maintainance - Following up on the product and making sure it runs at its best.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall methodologies follows the projects outlined scope and goes step by step untill the final stage before it is released to the client, while Agile methodology has flexibility that gives the team chances to reponse quickly and adaptive during the development stages.
