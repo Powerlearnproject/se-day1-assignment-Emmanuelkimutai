@@ -56,5 +56,9 @@ Acceptance testing - This is used by developers to try and see if the client req
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
+Prompt engineering is the art and science of designing and optimizing prompts to guide AI models on response. This makes the response AI generates to be more accurate.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Vague prompt - Hi, write a create an image with computers.
+improved- Hi, generate an image of a computer with a code snippet on a desk.
